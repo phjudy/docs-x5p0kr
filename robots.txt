@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8ctvgi.privatetalks.online/sitemap.xml
